@@ -1,0 +1,43 @@
+#body1 {
+    background-image:url(img/perro.jpg);
+    background-size:cover;
+    background-position: center;
+    width: 300px;
+    height: 200px;
+}
+
+a {
+    background-color: black;
+}
+.flexinicio{
+    flex-direction: row;
+}
+
+.button {
+    background-color: #51720b;
+    color:blanchedalmond;
+    padding: 10px 20pxborder none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#caja1{
+    width: 250px;
+    height: 250px;
+    background-color: #51720b;
+}
+#caja2{
+    width: 250px;
+    height: 250px;
+    background-color: #d53f0d;
+}
+
+table { border-collapse:collapse;
+    width: 50%;
+    margin:10px ;}
+    th,tr,h1,h2,a{
+        border: 1px solid #ddd8d8;
+        padding:10px;
+        text-align: center;
+        color: rgba(240, 237, 227, 0.651);
+    }
